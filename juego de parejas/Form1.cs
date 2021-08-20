@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace juego_de_parejas
+namespace juego_de_parejas1
 {
     public partial class Form1 : Form
     {
@@ -55,6 +55,8 @@ namespace juego_de_parejas
         {
 
         }
+        
+        //Se especifican las acciones que tomara el click
 
         /// <summary>
         /// Every label's Click event is handled by this event handler
@@ -120,8 +122,8 @@ namespace juego_de_parejas
                         return;
                 }
             }
+///mensaje al finalizar el juego
 
-          
             MessageBox.Show("¡Haz encontrado todas las parejas!", "Fantástico");
             Close();
         }
