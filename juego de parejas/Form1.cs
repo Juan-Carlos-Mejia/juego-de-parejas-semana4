@@ -122,8 +122,8 @@ namespace juego_de_parejas1
                         return;
                 }
             }
+///mensaje al finalizar el juego
 
-          
             MessageBox.Show("¡Haz encontrado todas las parejas!", "Fantástico");
             Close();
         }
