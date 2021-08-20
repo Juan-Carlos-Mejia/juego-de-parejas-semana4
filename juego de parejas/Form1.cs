@@ -123,6 +123,7 @@ namespace juego_de_parejas
                 }
             }
 
+            //Mensaje al finalizar el juego
           
             MessageBox.Show("¡Haz encontrado todas las parejas!", "Fantástico");
             Close();
