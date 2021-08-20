@@ -26,6 +26,8 @@ namespace juego_de_parejas
 
 
         private void AssignIconsToSquares()
+
+            /// los iconos se mostraran de forma aleatoria
         {
 
             foreach (Control control in tableLayoutPanel1.Controls)
