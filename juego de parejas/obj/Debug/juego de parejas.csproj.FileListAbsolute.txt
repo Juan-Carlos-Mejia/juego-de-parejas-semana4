@@ -8,3 +8,13 @@ C:\Users\pc\source\repos\juego de parejas\juego de parejas\bin\Debug\juego de pa
 C:\Users\pc\source\repos\juego de parejas\juego de parejas\obj\Debug\juego_de_parejas.Form1.resources
 C:\Users\pc\source\repos\juego de parejas\juego de parejas\obj\Debug\juego de parejas.exe
 C:\Users\pc\source\repos\juego de parejas\juego de parejas\obj\Debug\juego de parejas.pdb
+C:\Users\pc\source\repos\github\Juan-Carlos-Mejia\juego-de-parejas-semana4\juego de parejas\bin\Debug\juego de parejas.exe.config
+C:\Users\pc\source\repos\github\Juan-Carlos-Mejia\juego-de-parejas-semana4\juego de parejas\bin\Debug\juego de parejas.exe
+C:\Users\pc\source\repos\github\Juan-Carlos-Mejia\juego-de-parejas-semana4\juego de parejas\bin\Debug\juego de parejas.pdb
+C:\Users\pc\source\repos\github\Juan-Carlos-Mejia\juego-de-parejas-semana4\juego de parejas\obj\Debug\juego de parejas.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\github\Juan-Carlos-Mejia\juego-de-parejas-semana4\juego de parejas\obj\Debug\juego_de_parejas.Form1.resources
+C:\Users\pc\source\repos\github\Juan-Carlos-Mejia\juego-de-parejas-semana4\juego de parejas\obj\Debug\juego_de_parejas.Properties.Resources.resources
+C:\Users\pc\source\repos\github\Juan-Carlos-Mejia\juego-de-parejas-semana4\juego de parejas\obj\Debug\juego de parejas.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\github\Juan-Carlos-Mejia\juego-de-parejas-semana4\juego de parejas\obj\Debug\juego de parejas.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\github\Juan-Carlos-Mejia\juego-de-parejas-semana4\juego de parejas\obj\Debug\juego de parejas.exe
+C:\Users\pc\source\repos\github\Juan-Carlos-Mejia\juego-de-parejas-semana4\juego de parejas\obj\Debug\juego de parejas.pdb
