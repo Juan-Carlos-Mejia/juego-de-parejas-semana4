@@ -53,7 +53,7 @@ namespace juego_de_parejas
             // 
             // tableLayoutPanel1
             // 
-            this.tableLayoutPanel1.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.tableLayoutPanel1.BackColor = System.Drawing.Color.Red;
             this.tableLayoutPanel1.CellBorderStyle = System.Windows.Forms.TableLayoutPanelCellBorderStyle.Inset;
             this.tableLayoutPanel1.ColumnCount = 4;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
@@ -189,6 +189,7 @@ namespace juego_de_parejas
             // 
             this.label8.BackColor = System.Drawing.Color.CornflowerBlue;
             this.label8.Font = new System.Drawing.Font("Webdings", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
+            this.label8.ForeColor = System.Drawing.SystemColors.ControlText;
             this.label8.Location = new System.Drawing.Point(401, 127);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(124, 122);
@@ -294,7 +295,7 @@ namespace juego_de_parejas
             this.Controls.Add(this.tableLayoutPanel1);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Form1";
-            this.Text = "Matching Game";
+            this.Text = "juego de parejas";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.ResumeLayout(false);

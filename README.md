@@ -1,2 +1,1 @@
-# juego-de-parejas-semana4
-tarea semana 4 grupo #5
+JUEGO DE FORMAR PAREJAS SEMANA 4 GRUPO #5

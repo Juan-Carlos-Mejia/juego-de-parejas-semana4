@@ -55,6 +55,8 @@ namespace juego_de_parejas
         {
 
         }
+        
+        //Se especifican las acciones que tomara el click
 
         /// <summary>
         /// Every label's Click event is handled by this event handler
@@ -122,7 +124,7 @@ namespace juego_de_parejas
             }
 
           
-            MessageBox.Show("¡Haz encontrado todas las parejas!", "Felicidades");
+            MessageBox.Show("¡Haz encontrado todas las parejas!", "Fantástico");
             Close();
         }
     }
