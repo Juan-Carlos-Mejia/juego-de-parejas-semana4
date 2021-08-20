@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace juego_de_parejas
+namespace juego_de_parejas1
 {
     public partial class Form1 : Form
     {
