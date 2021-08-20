@@ -122,7 +122,7 @@ namespace juego_de_parejas
             }
 
           
-            MessageBox.Show("¡Haz encontrado todas las parejas!", "lo lograste");
+            MessageBox.Show("¡Haz encontrado todas las parejas!", "En hora buena");
             Close();
         }
     }
