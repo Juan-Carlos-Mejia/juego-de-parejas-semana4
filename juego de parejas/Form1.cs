@@ -55,6 +55,8 @@ namespace juego_de_parejas
         {
 
         }
+        
+        //Se especifican las acciones que tomara el click
 
         /// <summary>
         /// Every label's Click event is handled by this event handler
