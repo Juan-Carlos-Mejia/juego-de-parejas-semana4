@@ -98,6 +98,7 @@ namespace Game_Five
                 }
 
                 timer1.Start();
+                //Se agrega un temporizador para que el jugador tenga un tiempo limitado
             }
         }
 
