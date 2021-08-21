@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+//Empezamos el código colocándole un nombre
 
 namespace Game_Five
 {
