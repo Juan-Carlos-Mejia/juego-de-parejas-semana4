@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace juego_de_parejas.Properties
+namespace juego_de_parejas1.Properties
 {
     /// <summary>
     ///   Clase de recurso fuertemente tipado para buscar cadenas traducidas, etc.

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace juego_de_parejas
+namespace juego_de_parejas1
 {
     static class Program
     {

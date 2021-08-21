@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace juego_de_parejas
+namespace juego_de_parejas1
 {
     public partial class Form1 : Form
     {
@@ -27,7 +27,7 @@ namespace juego_de_parejas
 
         private void AssignIconsToSquares()
 
-            /// los iconos se mostraran de forma aleatoria
+        /// los iconos se mostraran de forma aleatoria
         {
 
             foreach (Control control in tableLayoutPanel1.Controls)
@@ -57,7 +57,7 @@ namespace juego_de_parejas
         {
 
         }
-        
+
         //Se especifican las acciones que tomara el click
 
         /// <summary>
@@ -113,7 +113,7 @@ namespace juego_de_parejas
 
         private void CheckForWinner()
         {
-            
+
             foreach (Control control in tableLayoutPanel1.Controls)
             {
                 Label iconLabel = control as Label;
@@ -126,7 +126,7 @@ namespace juego_de_parejas
             }
 
             //Mensaje al finalizar el juego
-          
+
             MessageBox.Show("¡Haz encontrado todas las parejas!", "Fantástico");
             Close();
         }

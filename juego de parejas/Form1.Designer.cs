@@ -1,5 +1,5 @@
 ﻿
-namespace juego_de_parejas
+namespace juego_de_parejas1
 {
     partial class Form1
     {
